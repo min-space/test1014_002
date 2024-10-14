@@ -1,0 +1,2 @@
+mv_4k.mov filter=lfs diff=lfs merge=lfs -text
+mv_1080p.mov filter=lfs diff=lfs merge=lfs -text
